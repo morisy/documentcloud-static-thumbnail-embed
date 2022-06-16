@@ -1,7 +1,7 @@
 
-# DocumentCloud Add-On — Page Statistics
+# DocumentCloud Add-On — Generate static thumbnails with links
 
-This DocumentCloud Add-On allows you to select multiple documents or projects, returning basic page count stats, such as total pages, average number of pages, and link the largest and small documents with their number of pages.
+A DocumentCloud Add-On that that creates some static HTML you can use to embed a list of documents within a page.
 
 ## Files
 
